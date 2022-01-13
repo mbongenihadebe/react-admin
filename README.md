@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+Live deployed site can be preview here : [https://mbongenihadebe-react-admin.netlify.app/] (https://mbongenihadebe-react-admin.netlify.app/) to view it online.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
